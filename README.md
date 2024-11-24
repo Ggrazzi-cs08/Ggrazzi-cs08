@@ -47,6 +47,7 @@ A maioria de meus projetos são coisas que eu criei nos trabalhos do meu curso, 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ggrazzi-cs08&layout=compact&hide_border=true&title_color=7B68EE&text_color=D3D3D3&bg_color=0d1117" />
 </div>
 
+
 ## 📱 Redes sociais
 
 <div>
