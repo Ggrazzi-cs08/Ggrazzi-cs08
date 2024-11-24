@@ -17,7 +17,7 @@
 
 A maioria de meus projetos são coisas que eu criei nos trabalhos do meu curso, principalmente na disciplina de Desenvolvimento Web, então você pode esperar ver um pouco de tudo por aqui.
 
-- ▶ <a href="https://github.com/Arawns1/Atividades-Faculdade">Trabalhos da faculdade</a>
+- ▶ <a href="https://ggrazzi-cs08.github.io/porteste/">Meu portfólio</a>
 - ▶ <a href= "https://github.com/Arawns1/Serratec-2023.1"> Projetos realizados no Serratec 2023.1 </a>
 
 <br/>
