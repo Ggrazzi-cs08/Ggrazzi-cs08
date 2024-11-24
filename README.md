@@ -13,6 +13,16 @@
 
 <br/>
 
+## ✨Habilidades pessoais:
+
+- 💻 &nbsp; Comunicação assertiva;
+- 🌐 &nbsp; Relações interpessoais;
+- :scroll: &nbsp; Pensamento crítico;
+- :art: &nbsp; Flexibilidade e adaptação;
+- 🔧 &nbsp; Proatividade
+
+<br/>
+
 ## 📂 O que você vai encontrar no meu perfil
 
 A maioria de meus projetos são coisas que eu criei nos trabalhos do meu curso, principalmente na disciplina de Desenvolvimento Web, então você pode esperar ver um pouco de tudo por aqui.
@@ -31,16 +41,6 @@ A maioria de meus projetos são coisas que eu criei nos trabalhos do meu curso, 
 ![LINUX](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=563D7C)&nbsp;
 
-## ✨Habilidades pessoais:
-
-- 💻 &nbsp; Comunicação assertiva;
-- 🌐 &nbsp; Relações interpessoais;
-- :scroll: &nbsp; Pensamento crítico;
-- :art: &nbsp; Flexibilidade e adaptação;
-- 🔧 &nbsp; Proatividade
-
-<br/>
-
 ## 📊 Algumas estatísticas
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ggrazzi-cs08&show_icons=true&count_private=true&hide_border=true&title_color=7B68EE&icon_color=7B68EE&text_color=D3D3D3&bg_color=0d1117" alt="Estatísticas do GitHub de Graziela Costa" /> 
@@ -51,5 +51,5 @@ A maioria de meus projetos são coisas que eu criei nos trabalhos do meu curso, 
 
 <div>
     <a href="https://www.linkedin.com/in/graziela-costa-16975933a/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke" alt="Linkedin"></a>
-    <a href="https://www.instagram.com/apenas.angelo/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Instagram&color=lightpink&style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"></a>
+    <a href="https://www.instagram.com/thegrazzi/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Instagram&color=lightpink&style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"></a>
 </div>
