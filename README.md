@@ -1,4 +1,4 @@
-
+ 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=header"/>
 
@@ -18,7 +18,7 @@
 A maioria de meus projetos são coisas que eu criei nos trabalhos do meu curso, principalmente na disciplina de Desenvolvimento Web, então você pode esperar ver um pouco de tudo por aqui.
 
 - ▶ <a href="https://ggrazzi-cs08.github.io/porteste/">Meu portfólio</a>
-- ▶ <a href= "https://github.com/Arawns1/Serratec-2023.1"> Projetos realizados no Serratec 2023.1 </a>
+- ▶ <a href= "https://ggrazzi-cs08.github.io/galeria.html/"> Projeto realizado para o portfólio </a>
 
 <br/>
 
