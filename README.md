@@ -36,8 +36,11 @@
 <br/>
 
 
-# 💻✨Informações profissionais:
+# 👩🏻‍💻✨Informações profissionais:
+Sou uma profissional com experiência prática em desenvolvimento web, com foco na criação de sites funcionais e atraentes. Atualmente, estou aprofundando meus conhecimentos através do meu TCC, que aborda o desenvolvimento de um repositório digital, destacando a importância de sistemas de organização e acesso à informação.
 
+- ▶ Desenvolvimento de Site: Criação de websites funcional e responsivo para trabalho acadêmico, com foco em design atraente e otimização de performance.
+- ▶ TCC – Repositório Digital: Desenvolvimento de um sistema digital que permite o armazenamento e acesso organizado a informações.
 
 
  ## 📂 O que você vai encontrar no meu perfil
