@@ -8,7 +8,9 @@
 ## 👩🏻‍💻 Quem sou eu?
 
 🙋🏻‍♀️Meu nome é Graziela Costa, tenho 16 anos e estou nessa fase de descobertas, aprendendo mais sobre mim mesma e sobre o mundo ao meu redor. Apesar de ser jovem, estou sempre buscando crescer, seja nos estudos, nas amizades ou nas experiências de vida. 
+
 📍Açailândia - MA, Brasil
+
 📖 Atualmente sou estudante do curso técnico em Informática no IFMA Campus Açailândia, cursando o segundo ano do ensino médio integrado.
 
 <br/>
