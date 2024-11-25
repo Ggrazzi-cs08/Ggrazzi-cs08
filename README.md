@@ -9,17 +9,28 @@
 
 🙋‍♂️Meu nome é Graziela Costa, tenho 16 anos e estou nessa fase de descobertas, aprendendo mais sobre mim mesma e sobre o mundo ao meu redor. Apesar de ser jovem, estou sempre buscando crescer, seja nos estudos, nas amizades ou nas experiências de vida. 
 
+
 📖 Atualmente sou estudante do curso técnico em Informática no IFMA Campus Açailândia, cursando o segundo ano do ensino médio integrado.
 
 <br/>
 
 ## ✨Habilidades pessoais:
 
-- 💻 &nbsp; Comunicação assertiva;
-- 🌐 &nbsp; Relações interpessoais;
-- :scroll: &nbsp; Pensamento crítico;
-- :art: &nbsp; Flexibilidade e adaptação;
-- 🔧 &nbsp; Proatividade
+- 💻 &nbsp; Comunicação assertiva:
+    Expresso minhas ideias e necessidades de forma clara, direta e respeitosa.
+    Um exemplo em que essa habilidade foi utilizada foi em uma reunião, onde sugeri de forma respeitosa a prorrogação de um prazo, explicando as razões para isso.
+- 🌐 &nbsp; Relações interpessoais:
+    Possuo facilidade em interagir de forma eficaz e harmoniosa com as pessoas ao meu redor.
+    Sempre procuro cumprimentar meus colegas e tratá-los da melhor forma, assim, promovendo a criação de um ambiente mais amigável e a fortalecer os laços com a equipe.
+- :scroll: &nbsp; Pensamento crítico:
+    Analiso informações de forma objetiva e questionando suposições antes de tomar decisões.
+    Faço muito uso do meu pansamento crítico na resolução de problemas e na busca por melhorias. 
+- :art: &nbsp; Flexibilidade e adaptação:
+    Um de meus pontos fortes é a capacidade de aceitar mudanças e me ajustar facilmente a novas situações.
+    Trabalho em equipe com pessoas de diferentes estilos, sempre em busca do melhor projeto.
+- 🔧 &nbsp; Proatividade:
+    Antecipo necessidades e ajo antes que os problemas surjam.
+    Faço isso propondo soluções para problemas, oferecendo ajuda aos colegas e muito mais!
 
 <br/>
 
