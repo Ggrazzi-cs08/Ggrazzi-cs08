@@ -72,7 +72,7 @@ A maioria de meus projetos são coisas que eu criei nos trabalhos do meu curso, 
 <div>
     <a href="https://www.linkedin.com/in/graziela-costa-16975933a/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke" alt="Linkedin"></a>
     <a href="https://www.instagram.com/thegrazzi/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Instagram&color=lightpink&style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"></a>
-    <a href="cgraziela@acad.ifma.edu.br" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Email&color=lightblue&style=for-the-badge&logo=gmail&logoColor=black" alt="Email"></a>
+    <a href="https://mail.google.com/mail/u/0/?hl=pt-BR#inbox" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Email&color=lightblue&style=for-the-badge&logo=gmail&logoColor=black" alt="Email"></a>
     <a href="https://github.com/seuusuario" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=GitHub&color=black&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
  
 </div>
