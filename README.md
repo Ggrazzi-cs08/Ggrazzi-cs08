@@ -49,6 +49,7 @@ A maioria de meus projetos são coisas que eu criei nos trabalhos do meu curso, 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54);
 
 ## 💻✨Tecnologias que uso:
 ![LINUX](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white)
@@ -71,5 +72,5 @@ A maioria de meus projetos são coisas que eu criei nos trabalhos do meu curso, 
 <div>
     <a href="https://www.linkedin.com/in/graziela-costa-16975933a/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke" alt="Linkedin"></a>
     <a href="https://www.instagram.com/thegrazzi/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Instagram&color=lightpink&style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"></a>
-  [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cgraziela@acad.ifma.edu.br)
+ 
 </div>
