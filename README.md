@@ -35,21 +35,28 @@
 
 <br/>
 
-## 📂 O que você vai encontrar no meu perfil
 
-A maioria de meus projetos são coisas que eu criei nos trabalhos do meu curso, principalmente na disciplina de Desenvolvimento Web, então você pode esperar ver um pouco de tudo por aqui.
+# 💻✨Informações profissionais:
 
-- ▶ <a href="https://ggrazzi-cs08.github.io/porteste/">Meu portfólio</a>
-- ▶ <a href= "https://ggrazzi-cs08.github.io/galeria.html/"> Projeto realizado para o portfólio </a>
 
-<br/>
 
+ ## 📂 O que você vai encontrar no meu perfil
+ 
+ A maioria de meus projetos são coisas que eu criei nos trabalhos do meu curso, principalmente na disciplina de Desenvolvimento Web, então você pode esperar ver um pouco de tudo por aqui.
+ 
+ - ▶ <a href="https://ggrazzi-cs08.github.io/porteste/">Meu portfólio</a>
+ - ▶ <a href= "https://ggrazzi-cs08.github.io/galeria.html/"> Projeto realizado para o portfólio </a>
+ 
+ <br/>
+
+ 
  ## 💻✨Linguagens que uso:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54);
+
 
 ## 💻✨Tecnologias que uso:
 ![LINUX](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white)
@@ -58,6 +65,7 @@ A maioria de meus projetos são coisas que eu criei nos trabalhos do meu curso, 
 ![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-000?style=for-the-badge&logo=cisco&logoColor=blue) 
 ![Debian](https://img.shields.io/badge/Debian-000?style=for-the-badge&logo=debian&logoColor=A81D33) 
 ![Canva](https://img.shields.io/badge/Canva-000?style=for-the-badge&logo=canva&logoColor=00C4CC)
+
 
 ## 📊 Algumas estatísticas
 <div align="center">  
