@@ -44,19 +44,25 @@ A maioria de meus projetos são coisas que eu criei nos trabalhos do meu curso, 
 
 <br/>
 
- ## 💻✨Tecnologias que uso:
+ ## 💻✨Linguagens que uso:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![GIT](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=E34F26)
+
+## 💻✨Tecnologias que uso:
 ![LINUX](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=563D7C)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-000?style=for-the-badge&logo=cisco&logoColor=blue) 
+![Debian](https://img.shields.io/badge/Debian-000?style=for-the-badge&logo=debian&logoColor=A81D33) 
+![Canva](https://img.shields.io/badge/Canva-000?style=for-the-badge&logo=canva&logoColor=00C4CC)
 
 ## 📊 Algumas estatísticas
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ggrazzi-cs08&show_icons=true&count_private=true&hide_border=true&title_color=7B68EE&icon_color=7B68EE&text_color=D3D3D3&bg_color=0d1117" alt="Estatísticas do GitHub de Graziela Costa" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ggrazzi-cs08&layout=compact&hide_border=true&title_color=7B68EE&text_color=D3D3D3&bg_color=0d1117" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ggrazzi-cs08&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph" />
 </div>
 
 
