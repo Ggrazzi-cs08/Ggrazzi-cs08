@@ -3,13 +3,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF7F50&size=35&center=true&vCenter=true&width=1000&lines=Olá+bem-vindo+ao+meu+perfil👋;+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF7F50&size=35&center=true&vCenter=true&width=1000&lines=Olá+bem-vindo+ao+meu+perfil👋🏻;+:%29)](https://git.io/typing-svg)
 
-## 👨‍💻 Quem sou eu?
+## 👩🏻‍💻 Quem sou eu?
 
-🙋‍♂️Meu nome é Graziela Costa, tenho 16 anos e estou nessa fase de descobertas, aprendendo mais sobre mim mesma e sobre o mundo ao meu redor. Apesar de ser jovem, estou sempre buscando crescer, seja nos estudos, nas amizades ou nas experiências de vida. 
-
-
+🙋🏻‍♀️Meu nome é Graziela Costa, tenho 16 anos e estou nessa fase de descobertas, aprendendo mais sobre mim mesma e sobre o mundo ao meu redor. Apesar de ser jovem, estou sempre buscando crescer, seja nos estudos, nas amizades ou nas experiências de vida. 
+📍Açailândia - MA, Brasil
 📖 Atualmente sou estudante do curso técnico em Informática no IFMA Campus Açailândia, cursando o segundo ano do ensino médio integrado.
 
 <br/>
