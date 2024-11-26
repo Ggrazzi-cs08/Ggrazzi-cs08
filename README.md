@@ -19,7 +19,7 @@
 
 - 💻 &nbsp; Comunicação assertiva:
     Expresso minhas ideias e necessidades de forma clara, direta e respeitosa.
-    Um exemplo em que essa habilidade foi utilizada foi em uma reunião, onde sugeri de forma respeitosa a prorrogação de um prazo, explicando as razões para isso.
+    Um exemplo em que essa habilidade foi utilizada foi em uma reunião acadêmica, onde sugeri de forma respeitosa a prorrogação de um prazo, explicando as razões para isso.
 - 🌐 &nbsp; Relações interpessoais:
     Possuo facilidade em interagir de forma eficaz e harmoniosa com as pessoas ao meu redor.
     Sempre procuro cumprimentar meus colegas e tratá-los da melhor forma, assim, promovendo a criação de um ambiente mais amigável e a fortalecer os laços com a equipe.
@@ -39,7 +39,7 @@
 # 👩🏻‍💻✨Informações profissionais:
 Sou uma profissional com experiência prática em desenvolvimento web, com foco na criação de sites funcionais e atraentes. Atualmente, estou aprofundando meus conhecimentos através do meu TCC, que aborda o desenvolvimento de um repositório digital, destacando a importância de sistemas de organização e acesso à informação.
 
-- ▶ Desenvolvimento de Site: Criação de websites funcional e responsivo para trabalho acadêmico, com foco em design atraente e otimização de performance.
+- ▶ Desenvolvimento de Site: Criação de website funcional e responsivo para trabalho acadêmico, com foco em design atraente e otimização de performance.
 - ▶ TCC – Repositório Digital: Desenvolvimento de um sistema digital que permite o armazenamento e acesso organizado a informações.
 
 
@@ -83,7 +83,7 @@ Sou uma profissional com experiência prática em desenvolvimento web, com foco 
 <div>
     <a href="https://www.linkedin.com/in/graziela-costa-16975933a/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke" alt="Linkedin"></a>
     <a href="https://www.instagram.com/thegrazzi/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Instagram&color=lightpink&style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"></a>
-    <a href="https://mail.google.com/mail/u/0/?hl=pt-BR#inbox" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Email&color=lightblue&style=for-the-badge&logo=gmail&logoColor=black" alt="Email"></a>
+    <a href="" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Email&color=lightblue&style=for-the-badge&logo=gmail&logoColor=black" alt="Email"></a>
     <a href="https://github.com/Ggrazzi-cs08" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=GitHub&color=black&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
  
 </div>
