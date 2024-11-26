@@ -86,3 +86,5 @@ Sou uma profissional com experiência prática em desenvolvimento web, com foco 
     <a href="https://github.com/Ggrazzi-cs08" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=GitHub&color=black&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
  
 </div>
+
+[![E-mail](https://img.shields.io/badge/-Email-0077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:cgraziela@acad.ifma.edu.br)
